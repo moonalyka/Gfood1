@@ -7,7 +7,6 @@ if (!file_exists('token')) {
 
 include ("curl.php");
 echo "\n";
-echo "\e[94m            KONTRAKAN PALAGAN CERIA            \n";
 echo "\e[91m              INDONESIA '62' US '1'             \n";
 echo "\e[93m       GOJEK AUTO REGISTER + AUTO CLAIM VOUCHER   \n";
 echo "\n";
